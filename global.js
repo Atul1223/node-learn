@@ -10,4 +10,5 @@ global.setTimeout(() => {
 // }, 2000);
 
 console.log(__dirname);
+console.log("huhhhhhhhhhhhh");
 console.log(__filename);
